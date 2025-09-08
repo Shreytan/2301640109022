@@ -1,4 +1,6 @@
-# URL Shortener Application
+# 2301640109022
+
+## URL Shortener Application
 
 A full-stack URL shortener service with analytics capabilities.
 
@@ -18,4 +20,10 @@ Please refer to individual folders for specific setup instructions.
 - Click analytics and tracking
 - Responsive web interface
 - Real-time statistics
+
+## Tech Stack
+
+- **Backend**: Node.js, Express, SQLite
+- **Frontend**: React, Material UI
+- **Logging**: Custom middleware with external API integration
 

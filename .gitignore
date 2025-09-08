@@ -3,8 +3,6 @@ node_modules/
 */node_modules/
 
 # Package locks (you can include these, but many developers exclude them)
-package-lock.json
-*/package-lock.json
 
 # Environment variables
 .env
